@@ -1,0 +1,9 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ûıÀÛ‰2J$bd767a4a-acd9-4dd7-a343-64d8285a1a71
+V
+java:S1128"4Remove this unused import 'org.bson.types.ObjectId'.(Ü¡‰çıÿÿÿÿ8Ÿ‰í‰2
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8Ÿ‰í‰2
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8 ‰í‰2

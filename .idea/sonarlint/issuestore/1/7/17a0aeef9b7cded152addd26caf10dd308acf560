@@ -1,0 +1,11 @@
+
+ê	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôß‰ô8ÃŒÅ÷â2J$051a202d-67c2-45ec-87e3-7094ecd7ffc9
+µ
+java:S1130"rRemove the declaration of thrown exception 'java.sql.SQLDataException', as it cannot be thrown from method's body.(ôß‰ô8ÕŒÅ÷â2J$6a6d9797-7fbf-4bff-9774-f3936b0c7883
+}	java:S125"<This block of commented-out lines of code should be removed.(”∆“?8◊ŒÅ÷â2J$96a51a81-3057-4825-adaa-069310e87d5c
+ö
+java:S1128"WRemove this unused import 'com.nipuna.customer.exception.CustomerRequestNullException'.(Êˇ†ö8ŸŒÅ÷â2J$8b220a39-2a0e-447a-8d08-8a3178f81fef
+é
+java:S1128"FRemove this unused import 'com.nipuna.customer.services.CustomerServ'.(ıÅ‰Æ¸ˇˇˇˇ8ŸŒÅ÷â2J$d311bd52-8c4c-4e57-8cd7-18dd798309f5
+Ü
+java:S1128"CRemove this unused import 'jakarta.validation.ValidationException'.(›Œ‹¬8⁄ŒÅ÷â2J$fe2362ee-2ffa-4080-9146-c7d1e1e073af
