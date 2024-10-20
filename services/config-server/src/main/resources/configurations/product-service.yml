@@ -1,0 +1,30 @@
+#spring:
+#  application:
+#    name: product
+##  cloud:
+##    config:
+##      enabled: false
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/product
+    username: nipuna
+    password: nipuna
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+  flyway:
+    baseline-on-migrate: true
+    enabled: true
+    baseline-description: "init"
+    baseline-version: 0
+    user: nipuna
+    password: nipuna
+
+server:
+  port: 8050
+
